@@ -5,7 +5,7 @@ Enterprises use dozens of disconnected apps for expenses, procurement, vendors a
 We're building a conversational, intelligent, self-optimising AI layer that talks to all these apps with built-in analytics, privacy, security and zero lock-in.
 
 Employees simply say:
-- "Match this invoice with contract"
+- "Match this vendor invoice with the signed contract"
 - "Find best vendor to procure this product"
 - "Show me my top customers"
 - "Fill my timesheet for this week"
