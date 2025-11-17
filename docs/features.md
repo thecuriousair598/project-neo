@@ -1600,7 +1600,6 @@ Seamless updates without manual downloads, with stable and beta channels for dif
 
 **Last Updated:** Based on Odin source code analysis (v0.1.47)
 
-**Project Repository:** https://github.com/thecuriousair598/project-neo
 
 **See also:**
 - [Overview](overview.md) - Quick introduction
