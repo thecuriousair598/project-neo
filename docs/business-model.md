@@ -173,4 +173,4 @@ Flexible pricing, start free, clear ROI
 - [Features](features.md) - What's built vs. planned
 - [Roadmap](roadmap.md) - Evolution strategy
 
-**Repository:** https://github.com/thecuriousair598/project-neo
+
