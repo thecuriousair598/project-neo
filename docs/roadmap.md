@@ -615,4 +615,4 @@ AI: *Creates personalized onboarding workflow, IT provisioning, training schedul
 - [Features](features.md) - Implementation details
 - [Business Model](business-model.md) - Pricing and revenue
 
-**Repository:** https://github.com/thecuriousair598/project-neo
+
