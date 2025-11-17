@@ -21,4 +21,4 @@ and it does it instantly using user, department and enterprise context.
 - [Roadmap](roadmap.md) - Evolution strategy
 - [Business Model](business-model.md) - Pricing and revenue
 
-**Repository:** https://github.com/thecuriousair598/project-neo
+
