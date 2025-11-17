@@ -1599,4 +1599,10 @@ Seamless updates without manual downloads, with stable and beta channels for dif
 ---
 
 **Last Updated:** Based on Odin source code analysis (v0.1.47)
-**Repository:** https://github.com/thecuriousair598/odin.git
+
+**Project Repository:** https://github.com/thecuriousair598/project-neo
+
+**See also:**
+- [Overview](overview.md) - Quick introduction
+- [Roadmap](roadmap.md) - Evolution strategy
+- [Business Model](business-model.md) - Pricing and revenue

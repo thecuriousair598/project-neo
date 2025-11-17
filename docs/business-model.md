@@ -164,3 +164,13 @@ Flexible pricing, start free, clear ROI
 ---
 
 **Built for sustainable growth, strong economics, and long-term value creation.**
+
+---
+
+**See also:**
+- [Overview](overview.md) - Quick introduction
+- [Elevator Pitch](elevator-pitch.md) - Quick summary
+- [Features](features.md) - What's built vs. planned
+- [Roadmap](roadmap.md) - Evolution strategy
+
+**Repository:** https://github.com/thecuriousair598/project-neo

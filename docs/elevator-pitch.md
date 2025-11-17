@@ -12,3 +12,13 @@ Employees simply say:
 and it does it instantly using user, department and enterprise context.
 
 We're now looking for partners to scale this.
+
+---
+
+**Learn more:**
+- [Overview](overview.md) - Introduction
+- [Features](features.md) - What's built vs. planned
+- [Roadmap](roadmap.md) - Evolution strategy
+- [Business Model](business-model.md) - Pricing and revenue
+
+**Repository:** https://github.com/thecuriousair598/project-neo

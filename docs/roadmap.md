@@ -606,3 +606,13 @@ AI: *Creates personalized onboarding workflow, IT provisioning, training schedul
 **The window is now.** LLMs just became good enough. Be first or be irrelevant.
 
 **Join us.** Build the future of work.
+
+---
+
+**See also:**
+- [Overview](overview.md) - Quick introduction
+- [Elevator Pitch](elevator-pitch.md) - Quick summary
+- [Features](features.md) - Implementation details
+- [Business Model](business-model.md) - Pricing and revenue
+
+**Repository:** https://github.com/thecuriousair598/project-neo
